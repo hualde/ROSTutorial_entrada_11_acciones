@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hualde/ros_tutorial_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/hualde/ros_tutorial_ws/src/entrada_acciones/include/**",
+                "/home/hualde/ros_tutorial_ws/src/entrada_cmake/include/**",
+                "/home/hualde/ros_tutorial_ws/src/entrada_custom_msgs/include/**",
+                "/home/hualde/ros_tutorial_ws/src/mi_robot/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
